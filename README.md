@@ -1,16 +1,38 @@
-## Hi there 👋
+## Olá! Bem-vindo o(a).
 
-<!--
-**carina-altieri/carina-altieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Estudante de Análise de Sistemas 💻
 
-Here are some ideas to get you started:
+• Pronomes: Ela/Dela 👩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Atualmente me aprofundando em estudos relacionados ao universo dos dados 📊
+
+
+
+
+
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carina-altieri&show_icons=true&theme=omni)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carina-altieri&layout=pie&show_icons=true&theme=omni)](https://github.com/carina-altieri/github-readme-stats)
+
+ 
+  
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Carina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carina-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+          
+ 
+</div>
+
+  
+  ##
+ 
+<div></div> 
+  <a href="https://instagram.com/o.carinaoftime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:altiericarinarc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/carina-altieri-955081160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+</div>
