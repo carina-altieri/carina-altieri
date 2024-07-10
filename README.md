@@ -1,10 +1,11 @@
-## Olá! Bem-vindo o(a).
+## Seja bem-vindo o(a)! 👋
+
 
 • Estudante de Análise de Sistemas 💻
 
 • Pronomes: Ela/Dela 👩
 
-• Atualmente me aprofundando em estudos relacionados ao universo dos dados 📊
+• Atualmente me aprofundando no universo dos dados 📊
 
 
 
