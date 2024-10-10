@@ -1,9 +1,11 @@
 ## Seja bem-vindo o(a)! 👋
 
 
-• Estudante de Análise de Sistemas 💻
+• Estudante de Análise de Sistemas no Centro Universitário Facens 💻
 
 • Pronomes: Ela/Dela 👩
+
+• Focada em me desenvolver na linguagem Python e desenvolvimento backend 🐍
 
 • Atualmente me aprofundando no universo dos dados 📊
 
