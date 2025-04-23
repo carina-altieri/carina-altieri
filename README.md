@@ -15,7 +15,7 @@
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carina-altieri&show_icons=true&theme=omni)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carina-altieri&layout=pie&show_icons=true&theme=omni)](https://github.com/carina-altieri/github-readme-stats)
+  
 
  
   
